@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": "AboutUs.html",
+    "name": "Chowdappa Dental Care Centre",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,20 @@
     "uniqCompNum": 43,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://chowdappadentalcarecentre.co.in/",
+    "sitemapSwitcherAuto": "on",
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": true,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "favicon": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
