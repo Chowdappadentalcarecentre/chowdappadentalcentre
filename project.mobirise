@@ -48,10 +48,11 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Chowdappa Dental Care Centre in OMBR Layout Bangalore provides good services advanced level treatment with best prices.Root Canal,Dental Filling ,Dentures ,Teeth Extraction ,Bridges & Crowns , Preventive Dentistry  and Kids Dentistry are all under same roof.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpg"
       },
       "components": [
         {
@@ -1386,9 +1387,10 @@
     },
     "AboutUs.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Chowdappa Dental Care Centre represent new standards in Dental Care; standards that emphasize quality, convenience and transparency. For the last forteen years this has been working towards redefining the Oral Health Care delivery system.The team of Dentists at Chowdappa are highly qualified and regularly trained in best international practices in Dentistry.",
         "title": "About Us",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg"
       },
       "components": [
         {
