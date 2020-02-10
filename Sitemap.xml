@@ -1,11 +1,21 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://chowdappadentalcarecentre.co.in/index.html</loc>
-	</url>
-	<url>
-		<loc>https://chowdappadentalcarecentre.co.in/ContactUs.html</loc>
-	</url>
-	<url>
-		<loc>https://chowdappadentalcarecentre.co.in/AboutUs.html</loc>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://chowdappadentalcarecentre.co.in/index.html</loc>
+</url>
+<url>
+  <loc>http://chowdappadentalcarecentre.co.in/AboutUs.html</loc>
+</url>
+<url>
+  <loc>http://chowdappadentalcarecentre.co.in/tel:+91-9845173384</loc>
+</url>
+<url>
+  <loc>https://chowdappadentalcarecentre.co.in/</loc>
+</url>
+<url>
+  <loc>http://chowdappadentalcarecentre.co.in/terms.html</loc>
+</url>
+<url>
+  <loc>http://chowdappadentalcarecentre.co.in/policy.html</loc>
+</url>
 </urlset>
